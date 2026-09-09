@@ -1,0 +1,8 @@
+2026-09-09 10:54:35,593 - INFO - Application started.
+2026-09-09 10:54:47,025 - WARNING - Unauthorized access attempt to menu option 2.
+2026-09-09 10:55:07,031 - INFO - User 'user1' logged in.
+2026-09-09 10:56:02,398 - DEBUG - Entering read file module.
+2026-09-09 10:56:02,401 - WARNING - File 'sample.txt' was read, but it was empty.
+2026-09-09 10:56:07,297 - INFO - User logged out.
+2026-09-09 10:56:09,487 - WARNING - Unauthorized access attempt to menu option 5.
+2026-09-09 10:56:12,011 - INFO - Application closed normally by user.
