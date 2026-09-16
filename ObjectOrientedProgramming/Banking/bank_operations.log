@@ -1,0 +1,10 @@
+2026-09-16 23:29:57,462 - INFO - Account created for Alice Smith with Account No: ACC1001
+2026-09-16 23:29:57,463 - INFO - Account created for Bob Jones with Account No: ACC1002
+2026-09-16 23:29:57,481 - INFO - Displayed details for account ACC1001
+2026-09-16 23:29:57,482 - INFO - Deposited 200.0 to account ACC1001. New balance: 700.0
+2026-09-16 23:29:57,483 - INFO - Withdrew 100.0 from account ACC1001. New balance: 600.0
+2026-09-16 23:29:57,484 - INFO - Displayed details for account ACC1001
+2026-09-16 23:29:57,484 - ERROR - Overdraw attempt of 1000.0 on account ACC1001 with balance 600.0
+2026-09-16 23:29:57,485 - INFO - Bank name changed globally to: Global Apex Bank
+2026-09-16 23:29:57,485 - INFO - Displayed details for account ACC1001
+2026-09-16 23:29:57,486 - INFO - Displayed details for account ACC1002
