@@ -1,0 +1,10 @@
+2026-09-16 19:51:59,225 - ERROR - Failed to create student Ann (ID: S1): Mark 101 is invalid. Must be between 0 and 100.
+2026-09-16 22:29:34,443 - CRITICAL - An unexpected error occurred: name 'Student' is not defined
+2026-09-16 22:32:36,305 - INFO - Student created successfully: Aarav Sharma (ID: S101)
+2026-09-16 22:32:36,306 - INFO - Student created successfully: Diya Patel (ID: S102)
+2026-09-16 22:32:36,307 - INFO - Marks updated for student ID S101
+2026-09-16 22:32:36,308 - ERROR - Failed to update marks for ID S102: Mark 105 is invalid. Must be between 0 and 100.
+2026-09-16 22:33:24,887 - INFO - Student created successfully: Aarav Sharma (ID: S101)
+2026-09-16 22:33:24,888 - INFO - Student created successfully: Diya Patel (ID: S102)
+2026-09-16 22:33:25,190 - INFO - Marks updated for student ID S101
+2026-09-16 22:33:25,192 - ERROR - Failed to update marks for ID S102: Mark 105 is invalid. Must be between 0 and 100.
