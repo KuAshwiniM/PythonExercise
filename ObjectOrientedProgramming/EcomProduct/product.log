@@ -1,0 +1,15 @@
+2026-09-17 22:55:11,573 - product_logger - INFO - Starting E-commerce Application Demonstration.
+2026-09-17 22:55:11,576 - product_logger - INFO - Scenario 1: Customer buys 2 Mechanical Keyboards.
+2026-09-17 22:55:11,576 - product_logger - INFO - Stock updated for 'Mechanical Keyboard' by -2 units. Current stock: 13.
+2026-09-17 22:55:11,576 - product_logger - INFO - Scenario 2: Supplier restocks Office Chairs.
+2026-09-17 22:55:11,576 - product_logger - INFO - Stock updated for 'Ergonomic Office Chair' by +10 units. Current stock: 15.
+2026-09-17 22:55:11,577 - product_logger - INFO - Scenario 3: Customer attempts to buy 20 Running Shoes (Stock is 30).
+2026-09-17 22:55:11,577 - product_logger - INFO - Stock updated for 'Running Shoes' by -20 units. Current stock: 10.
+2026-09-17 22:55:11,577 - product_logger - INFO - Scenario 4: Customer attempts to buy 15 more Running Shoes (Only 10 left).
+2026-09-17 22:55:11,577 - product_logger - ERROR - Failed to update stock for Running Shoes. Resulting stock would be negative (-5).
+2026-09-17 22:55:11,577 - product_logger - ERROR - Expected Error Caught Successfully: Cannot deduct 15 units. Only 10 available.
+2026-09-17 22:55:11,577 - product_logger - INFO - Scenario 5: Testing price validation using the static method.
+2026-09-17 22:55:11,578 - product_logger - INFO - Is price $45.99 valid? True
+2026-09-17 22:55:11,578 - product_logger - INFO - Is price $-5.0 valid? False
+2026-09-17 22:55:11,578 - product_logger - INFO - Is price $0 valid? False
+2026-09-17 22:55:11,578 - product_logger - INFO - E-commerce Application Demonstration Completed.
